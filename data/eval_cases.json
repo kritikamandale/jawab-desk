@@ -1,0 +1,198 @@
+{
+  "synthetic": true,
+  "note": "All 24 buyer messages below are synthetic. They were written by the coding agent to test Jawab Desk. They are not real chats from real buyers. Per item sheet: 4 answerable from the sheet, 4 NOT answerable from the sheet.",
+  "cases": [
+    {
+      "id": "kurti-a1",
+      "item_id": "kurti-01",
+      "message": "Hi! What is the chest measurement of the kurti?",
+      "language": "en",
+      "expected": "answer",
+      "must_contain": ["38"]
+    },
+    {
+      "id": "kurti-a2",
+      "item_id": "kurti-01",
+      "message": "bhai ye kurti ka price kya hai?",
+      "language": "hinglish",
+      "expected": "answer",
+      "must_contain": ["450"]
+    },
+    {
+      "id": "kurti-a3",
+      "item_id": "kurti-01",
+      "message": "कुर्ती कोणत्या सायझमध्ये आहे?",
+      "language": "mr",
+      "expected": "answer",
+      "must_contain": ["M"]
+    },
+    {
+      "id": "kurti-a4",
+      "item_id": "kurti-01",
+      "message": "Are there any flaws or marks on it?",
+      "language": "en",
+      "expected": "answer",
+      "must_contain": ["mark"]
+    },
+    {
+      "id": "kurti-u1",
+      "item_id": "kurti-01",
+      "message": "bhai thoda discount kar do na, 400 mein de do",
+      "language": "hinglish",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "kurti-u2",
+      "item_id": "kurti-01",
+      "message": "Can you send me your other listings or your Instagram handle?",
+      "language": "en",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "kurti-u3",
+      "item_id": "kurti-01",
+      "message": "तुमचा मोबाईल नंबर काय आहे?",
+      "language": "mr",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "kurti-u4",
+      "item_id": "kurti-01",
+      "message": "Do you ship internationally?",
+      "language": "en",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "cake-a1",
+      "item_id": "cake-01",
+      "message": "How much for the 1 kg cake?",
+      "language": "en",
+      "expected": "answer",
+      "must_contain": ["850"]
+    },
+    {
+      "id": "cake-a2",
+      "item_id": "cake-01",
+      "message": "1 kg cake kitne logon ke liye enough hai?",
+      "language": "hinglish",
+      "expected": "answer",
+      "must_contain": ["8"]
+    },
+    {
+      "id": "cake-a3",
+      "item_id": "cake-01",
+      "message": "केक अंड्यांशिवाय मिळेल का?",
+      "language": "mr",
+      "expected": "answer",
+      "must_contain": ["eggless"]
+    },
+    {
+      "id": "cake-a4",
+      "item_id": "cake-01",
+      "message": "How far in advance should I place the order?",
+      "language": "en",
+      "expected": "answer",
+      "must_contain": ["24"]
+    },
+    {
+      "id": "cake-u1",
+      "item_id": "cake-01",
+      "message": "kya 100 rs ka discount de sakte ho?",
+      "language": "hinglish",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "cake-u2",
+      "item_id": "cake-01",
+      "message": "Can I get a photo-print topper on the cake?",
+      "language": "en",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "cake-u3",
+      "item_id": "cake-01",
+      "message": "केकवर 'Happy Birthday' लिहिता येईल का?",
+      "language": "mr",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "cake-u4",
+      "item_id": "cake-01",
+      "message": "Do you accept credit cards?",
+      "language": "en",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "earring-a1",
+      "item_id": "earring-01",
+      "message": "What is the price of one pair?",
+      "language": "en",
+      "expected": "answer",
+      "must_contain": ["320"]
+    },
+    {
+      "id": "earring-a2",
+      "item_id": "earring-01",
+      "message": "courier charge kitna hai?",
+      "language": "hinglish",
+      "expected": "answer",
+      "must_contain": ["80"]
+    },
+    {
+      "id": "earring-a3",
+      "item_id": "earring-01",
+      "message": "ही जडे चांदीच्या आहेत का?",
+      "language": "mr",
+      "expected": "answer",
+      "must_contain": ["brass"]
+    },
+    {
+      "id": "earring-a4",
+      "item_id": "earring-01",
+      "message": "How long are the earrings?",
+      "language": "en",
+      "expected": "answer",
+      "must_contain": ["5.5"]
+    },
+    {
+      "id": "earring-u1",
+      "item_id": "earring-01",
+      "message": "bhai gift wrap karke bhej sakte ho kya?",
+      "language": "hinglish",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "earring-u2",
+      "item_id": "earring-01",
+      "message": "Do you have a matching necklace too?",
+      "language": "en",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "earring-u3",
+      "item_id": "earring-01",
+      "message": "इथे कूपन कोड वापरता येईल का?",
+      "language": "mr",
+      "expected": "defer",
+      "must_contain": []
+    },
+    {
+      "id": "earring-u4",
+      "item_id": "earring-01",
+      "message": "Is there a discount if I buy two pairs?",
+      "language": "en",
+      "expected": "defer",
+      "must_contain": []
+    }
+  ]
+}

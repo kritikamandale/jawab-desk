@@ -1,0 +1,42 @@
+{
+  "synthetic": true,
+  "note": "All three item sheets below are synthetic. They were written by the coding agent for testing Jawab Desk. They are not real listings, and the prices are placeholders.",
+  "items": [
+    {
+      "id": "kurti-01",
+      "synthetic": true,
+      "title": "Thrifted cotton kurti, mustard yellow, size M",
+      "price_inr": 450,
+      "size_or_measurements": "M (chest 38 inches, length 44 inches)",
+      "condition": "Very good, worn once",
+      "flaws": ["small 1 cm mark near the hem, hidden when worn"],
+      "delivery": "Ships in 2-3 days from Pune, delivery charge 60, free delivery above 1000",
+      "payment": "GPay or bank transfer before dispatch, Cash on Delivery available",
+      "notes": "No returns or exchanges on thrifted items. Dry clean only."
+    },
+    {
+      "id": "cake-01",
+      "synthetic": true,
+      "title": "Homemade chocolate truffle cake, 1 kg round",
+      "price_inr": 850,
+      "size_or_measurements": "1 kg, serves 8-10 people",
+      "condition": "Baked to order, fresh",
+      "flaws": [],
+      "delivery": "Only local pickup in Kothrud, Pune, no home delivery, order 24 hours in advance",
+      "payment": "50 percent advance by GPay, rest on pickup, no Cash on Delivery",
+      "notes": "Eggless on request, no fondant work, best eaten within 3 days of pickup"
+    },
+    {
+      "id": "earring-01",
+      "synthetic": true,
+      "title": "Handmade brass jhumka earrings with pearl drops",
+      "price_inr": 320,
+      "size_or_measurements": "Length 5.5 cm, weight 12 g per pair",
+      "condition": "New, made to order",
+      "flaws": ["slight colour variation in brass, handmade finish"],
+      "delivery": "Ships in 4-5 days from Mumbai, courier charge 80, free delivery above 999",
+      "payment": "UPI accepted, prepaid orders only, no Cash on Delivery",
+      "notes": "Avoid water and perfume. No returns for hygiene reasons, exchange only for damage in transit."
+    }
+  ]
+}
